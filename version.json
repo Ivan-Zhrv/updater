@@ -1,5 +1,5 @@
 {
-  "version": "2.5.2",
-  "url_windows": "https://github.com/Ivan-Zhrv/updater/releases/download/v2.5.2/GC.exe",
-  "url_macos": "https://github.com/Ivan-Zhrv/updater/releases/download/v2.5.2/GC.app.zip"
+  "version": "2.5.4",
+  "url_windows": "https://github.com/Ivan-Zhrv/updater/releases/download/v2.5.4/GC.exe",
+  "url_macos": "https://github.com/Ivan-Zhrv/updater/releases/download/v2.5.4/GC.app.zip"
 }
